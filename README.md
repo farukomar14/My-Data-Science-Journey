@@ -1,2 +1,2 @@
 # My-Data-Science-Journey
-<p> I'll <p>
+<h1> This repository reflests my journey throught data science. </h1>
